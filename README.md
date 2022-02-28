@@ -18,6 +18,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthrough GIF
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/mZNEDcy"  ><a href="//imgur.com/a/mZNEDcy">Flix homework</a></blockquote>
 
+<img src="https://imgur.com/4iObI8c" width=250><br>
+
 ### Notes
 I had trouble uploading the gif again and had to resort to using the code imgur had to embed the link. I also had trouble downloading cocoapods and found a helpful stack overflow guide on how to debug. Thirdly, I had issues with starting with Objective C instead of Swift because of some misleading tutorials and had to restart the project. Lastly, I was not used to using github desktop or creating a gif on my phone and learned to do those through this assignment. It was also great to learn about cocoapods, get more familiar with xcode/swift, create styled app icons, and create custom cells/tables.
 
